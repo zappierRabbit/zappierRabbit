@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zappierRabbit
-- 👀 I’m interested in blockchain
-- 🌱 I’m currently learning nodeJS
+- 👀 I’m interested in node Js
+- 🌱 I’m currently learning nest Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abdullahahmad0312@gmail.com
 
